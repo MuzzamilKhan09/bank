@@ -39,9 +39,25 @@ CREATE TABLE `branch` (
 INSERT INTO `branch` (`branchId`, `branchNo`, `branchName`) VALUES
 (1, '100101', 'Dera Ghazi Khan'),
 (2, '100102', 'Multan');
-
--- --------------------------------------------------------
-
+(3, '100103', 'Karachi');
+(4, '100104', 'Faisalabad');
+(5, '100105', 'Lahore');
+(6, '100106', 'Islamabad');
+(7, '100107', 'Rawalpindi');
+(8, '100108', 'Banno');
+(9, '100109', 'Rahimyar Khan');
+(10, '100110', 'Sawat');
+(11, '100111', 'Mardaan');
+(12, '100112', 'Peshawar');
+(13, '100113', 'Quetta');
+(14, '100114', 'Lasbela');
+(15, '100115', 'Nawabshah');
+(16, '100116', 'Sukkhar');
+(17, '100117', 'Sialkot');
+(18, '100118', 'Gujranwala');
+(19, '100119', 'Hyderabad');
+(20, '100120', 'Gujrat');
+-- -------------------------------------------------------
 --
 -- Table structure for table `feedback`
 --
